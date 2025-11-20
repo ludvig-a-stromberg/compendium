@@ -1,2 +1,2 @@
 # compendium
-This compendium contains works and write-ups on concepts for referencing theory, methodologies, and and implementations.
+This compendium contains works and write-ups on concepts for referencing theory, methodologies, and implementations.
